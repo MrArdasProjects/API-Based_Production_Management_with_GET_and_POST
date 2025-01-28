@@ -15,7 +15,7 @@ namespace Partnera
     {
         private const string BaseUrl = "";
         private const string ServiceUri = "";
-        private const string Username = "";
+        private const string Username = ""; 
         private const string Password = "";
 
 
